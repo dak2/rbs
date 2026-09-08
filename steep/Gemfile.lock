@@ -25,7 +25,7 @@ GEM
     fileutils (1.8.0)
     i18n (1.15.2)
       concurrent-ruby (~> 1.0)
-    json (2.21.2)
+    json (3.0.0)
     language_server-protocol (3.17.0.6)
     listen (3.10.0)
       logger
